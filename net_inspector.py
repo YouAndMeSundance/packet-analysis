@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Net Inspector — Scapy-based packet analyzer for quick SOC-style triage.
+Net Inspector — Scapy-based packet analyzer for quick triage.
 
 Highlights:
 - Parse a PCAP (or do a short live capture) and summarize:
